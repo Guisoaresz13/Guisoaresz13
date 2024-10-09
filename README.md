@@ -17,12 +17,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuiSoaresz13&radius=16&theme=dracula&area=true&order=5&custom_title=Contribui%C3%A7%C3%B5es" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -45,3 +39,13 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuiSoaresz13&radius=16&theme=dracula&area=true&order=5&custom_title=Contribui%C3%A7%C3%B5es" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+
+
+
